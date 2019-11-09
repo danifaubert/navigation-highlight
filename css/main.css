@@ -27,16 +27,15 @@ img {
 h1 {
   padding: 0;
   font-size: 3rem;
-  font-family: "Sigmar One", sans-serif;
+  font-family: "Sigmar One", cursive;
   text-align: center;
   color: #b20953;
   margin: 0;
 }
 
 nav {
-  text-align: center;
   display: block;
-  margin: 0;
+  margin-left: .3em;
 }
 
 ol {
@@ -48,7 +47,7 @@ ol li {
   list-style-type: none;
   text-decoration: none;
   display: inline;
-  text-align: left;
+  text-align: center;
 }
 
 .current {
@@ -59,6 +58,7 @@ ol li {
 a {
   display: inline-block;
   padding: .3em;
+  padding-left: .75em;
   background-color: #b2a212;
   font-family: Georgia, sans-serif;
   font-size: 1.125rem;
