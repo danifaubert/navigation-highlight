@@ -71,22 +71,23 @@ a:hover {
   background-color: #cc1465;
 }
 
+main {
+  margin-left: .4em;
+  margin-right: .4em;
+  margin-bottom: .3em;
+}
+
 h2 {
   font-size: 1.875rem;
   font-family: "Sigmar One", cursive;
   color: #b20953;
   text-align: left;
-  margin-left: .4em;
-  margin-right: .3em;
 }
 
 p {
   font-family: Georgia, sans-serif;
   color: #2f2d13;
   font-size: .99rem;
-  margin-left: .4em;
-  margin-right: .4em;
-  margin-bottom: .3em;
 }
 
 footer {
