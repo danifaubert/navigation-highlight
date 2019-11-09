@@ -41,7 +41,7 @@ nav {
 
 ol {
   padding-left: 0;
-  margin: .1em;
+  margin: 0;
 }
 
 ol li {
@@ -58,11 +58,11 @@ ol li {
 
 a {
   display: inline-block;
-  padding: .4em;
+  padding: .5em;
   background-color: #b2a212;
   font-family: Georgia, sans-serif;
   font-size: 1.125rem;
-  border-radius: 3px;
+  border-radius: 2px;
   color: #fff;
   text-decoration: none;
 }
