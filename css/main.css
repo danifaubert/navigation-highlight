@@ -17,6 +17,11 @@ header {
   background-color: #ffe500;
 }
 
+img {
+  display: block;
+  width: 100%;
+}
+
 h1 {
   font-size: 3rem;
   font-family: "Sigmar One", sans-serif;
