@@ -13,6 +13,7 @@ body {
 }
 
 header {
+  display: inline-block;
   background-color: #ffe500;
 }
 
@@ -23,40 +24,35 @@ h1 {
   color: #cc1465;
 }
 
+ol {
+  display: inline-block;
+  padding: .5em .75em;
+  background-color: #b2a212;
+  border-radius: 4px;
+  border: 0;
+  color: #fff;
+  font-family: Georgia, sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+
 h2 {
-  font-size: 3rem;
+  font-size: 1.875rem;
   font-family: "Sigmar One", sans-serif;
   color: #cc1465;
 }
 
-article {
-  font-family: georgia, sans-serif;
+p {
+  font-family: Georgia, sans-serif;
   color: #2f2d13;
-}
-
-.nav li {
-  text-align: center;
-  display: inline-block;
-  border-radius: 3px;
-  color: #fff;
-  background-color: #b2a212;
-  font-family: georgia, sans-serif;
-  line-height: 1.5;
-  padding: .5em .75em;
-  list-style-type: none;
 }
 
 a:hover {
   background-color: #b20953;
 }
 
-.current {
-  background-color: red;
-  text-align: center;
-}
-
-div p {
-  font-family: georgia, sans-serif;
+footer {
+  font-family: Georgia, sans-serif;
   text-align: center;
   color: #2f2d13;
   background-color: #ffe500;
